@@ -1,3 +1,4 @@
+//i used directly fetch but it also can be used as a customizable hook 
 import { useState,useEffect } from "react";
 import { createLogger } from "vite";
 
